@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(222, 161, 121);
+
+  font-family: "Ubuntu", sans-serif;
+}
+.weather-app {
+  color: rgb(67, 53, 29);
+  max-width: 600px;
+  margin: 30px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+  padding: 30px;
+}
