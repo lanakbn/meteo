@@ -62,12 +62,13 @@ header {
 
 .weather-app-icon {
   color: rgb(160, 64, 0);
-  font-size: 44px;
-  margin-top: 22px;
+  width: 88px;
+  height: 88px;
 }
 .weather-app-temp {
   font-size: 88px;
   font-weight: bold;
+  line-height: 88px;
   margin-left: 10px;
 }
 
